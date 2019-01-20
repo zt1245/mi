@@ -1,0 +1,194 @@
+.hj-plain-box {
+  .box-hd {
+    position: relative;
+    height: 58px;
+    .title {
+      margin: 0;
+      font-size: 22px;
+      font-weight: 200;
+      line-height: 58px;
+      color: #333;
+    }
+    .more {
+      top: 24px;
+      position: absolute;
+      right: 0;
+      .controls {
+        .control {
+          // width: 24px;
+          // height: 16px;
+          padding: 3px 5px;
+          border: 1px solid #e0e0e0;
+          font-size: 16px;
+          line-height: 16px;
+          text-align: center;
+          color: #b0b0b0;
+          display: inline-block;
+          transition: color .5s;
+          cursor: pointer;
+        }
+        .control:hover {
+          color: #ff6700;
+        }
+      }
+
+    }
+  }
+  .box-bd {
+    padding-bottom: 40px;
+    position: relative;
+    width: 1226px;
+    overflow: hidden;
+    .goods-list {
+      height: 340px;
+      overflow: hidden;
+      .countdown {
+        width: 234px;
+        margin: 0 14px 0 0;
+        padding: 0;
+        // float: left;
+
+        .rainbow-item-4 {
+          height: 340px;
+          border-top-color: #e53935;
+          background: #f1eded;
+          text-align: center;
+          // height: 300px;
+          padding-top: 39px;
+
+          border-top-width: 1px;
+          border-top-style: solid;
+          transition: all .6s;
+          float: left;
+          width: 234px;
+          .time-title {
+            font-size: 21px;
+            color: #ef3a3b;
+            padding-top: 15px;
+          }
+          img {
+            margin: 25px auto;
+          }
+          .sub {
+            color: rgba(0,0,0,0.54);
+            font-size: 15px;
+          }
+          .countdown {
+            width: 168px;
+            margin: 28px auto 0;
+            overflow: hidden;
+            .box {
+              width: 46px;
+              height: 46px;
+              background: #605751;
+              color: #fff;
+              font-size: 24px;
+              line-height: 46px;
+              float: left;
+            }
+            .dosh {
+              width: 15px;
+              float: left;
+              height: 46px;
+              line-height: 46px;
+              color: #605751;
+              font-size: 28px;
+            }
+          }
+        }
+      }
+      .wrapper {
+        height: 340px;
+        overflow: hidden;
+        margin-left: 14px;
+        .flashPurchase-list {
+          width: 6944px;
+          margin-left: 0px;
+          transition: margin-left 0.5s ease 0s;
+          .item {
+
+            position: relative;
+            background: #fafafa;
+            height: 340px;
+            padding-top: 39px;
+            border-top-width: 1px;
+            border-top-style: solid;
+            text-align: center;
+            transition: all .6s;
+            border-top-color: #ffac13;
+            float: left;
+            width: 234px;
+            margin-left: 14px;
+            .content {
+              .thumb {
+                display: block;
+                width: 160px;
+                margin: 0 auto 22px;
+                img {
+                  width: 160px;
+                  height: 160px;
+                }
+              }
+              .title {
+                color: #212121;
+                margin: 0 20px 3px;
+                font-size: 14px;
+                font-weight: 400;
+                text-overflow: ellipsis;
+                white-space: nowrap;
+                overflow: hidden;
+                a {
+                  color: #212121;
+                }
+              }
+              .desc {
+                height: 18px;
+                margin: 0 20px 12px;
+                font-size: 12px;
+                text-overflow: ellipsis;
+                white-space: nowrap;
+                overflow: hidden;
+                color: #b0b0b0;
+              }
+              .price {
+                margin: 0;
+                color: #ff6709;
+                del {
+                  color: #b0b0b0;
+                }
+
+              }
+              .flag {
+                background-color: #e53935;
+                position: absolute;
+                top: 0;
+                left: 50%;
+                z-index: 2;
+                width: 64px;
+                height: 20px;
+                margin-left: -32px;
+                font-size: 12px;
+                line-height: 20px;
+                text-align: center;
+                color: #fff;
+              }
+            }
+          }
+        }
+
+      }
+
+
+    }
+  }
+  .home-banner-box {
+    margin: 2px 0 42px;
+    overflow: hidden;
+    a {
+      img {
+        width: 100%;
+      }
+    }
+  }
+
+}

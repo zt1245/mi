@@ -1,0 +1,319 @@
+[
+  {
+    "zynavName": "小米手机",
+    "zynavIem":[
+      {
+        "zyItemImg":"http://localhost:3000/json/zhouying/images/zy-mix3-320.png",
+        "zyItemName":"小米MIX 3",
+        "zyItemprice":"3299元起",
+        "zyItemflags":"新品"
+      },
+      {
+        "zyItemImg":"http://localhost:3000/json/zhouying/images/zy-qingchun-320.png",
+        "zyItemName":"小米8 青春版",
+        "zyItemprice":"1399元起",
+        "zyItemflags":"新品"
+      },
+      {
+        "zyItemImg":"http://localhost:3000/json/zhouying/images/zy-pingmu-320.png",
+        "zyItemName":"小米8 屏幕指纹版",
+        "zyItemprice":"3199元起",
+        "zyItemflags":"新品"
+      },
+      {
+        "zyItemImg":"http://localhost:3000/json/zhouying/images/zy-pc-320-220-mi8.png",
+        "zyItemName":"小米8",
+        "zyItemprice":"2699元起",
+        "zyItemflags":""
+      },
+      {
+        "zyItemImg":"http://localhost:3000/json/zhouying/images/zy-pc-320-220-mi8se.png",
+        "zyItemName":"小米8 SE",
+        "zyItemprice":"1799元起",
+        "zyItemflags":""
+      },
+      {
+        "zyItemImg":"http://localhost:3000/json/zhouying/images/zy-max3-320-220.png",
+        "zyItemName":"小米Max 3",
+        "zyItemprice":"1699元起",
+        "zyItemflags":"",
+        "isboder":"true"
+      }
+    ]
+  },
+  {
+    "zynavName": "红米",
+    "zynavIem":[
+      {
+        "zyItemImg":"http://localhost:3000/json/zhouying/images/zy-6pro320-220.png",
+        "zyItemName":"红米6 Pro",
+        "zyItemprice":"999元起",
+        "zyItemflags":"新品"
+      },
+      {
+        "zyItemImg":"http://localhost:3000/json/zhouying/images/zy-666320.png",
+        "zyItemName":"红米6",
+        "zyItemprice":"799元起",
+        "zyItemflags":"新品"
+      },
+      {
+        "zyItemImg":"http://localhost:3000/json/zhouying/images/zy-6A320.png",
+        "zyItemName":"红米6A",
+        "zyItemprice":"599元起",
+        "zyItemflags":"新品"
+      },
+      {
+        "zyItemImg":"http://localhost:3000/json/zhouying/images/zy-note5-320-220.png",
+        "zyItemName":"红米Note 5",
+        "zyItemprice":"1099元起",
+        "zyItemflags":""
+      },
+      {
+        "zyItemImg":"http://localhost:3000/json/zhouying/images/zy-s2-320-220.png",
+        "zyItemName":"红米S2",
+        "zyItemprice":"999元起",
+        "zyItemflags":"",
+        "isboder":"true"
+      }
+    ]
+    },
+    {
+      "zynavName": "电视",
+      "zynavIem":[
+        {
+          "zyItemImg":"http://localhost:3000/json/zhouying/images/zy-4s75320.png",
+          "zyItemName":"小米电视4S 75英寸",
+          "zyItemprice":"7999元起",
+          "zyItemflags":"新品"
+        },
+        {
+          "zyItemImg":"http://localhost:3000/json/zhouying/images/zy-32.png",
+          "zyItemName":"小米电视4A 32英寸",
+          "zyItemprice":"899元起",
+          "zyItemflags":"热卖"
+        },
+        {
+          "zyItemImg":"http://localhost:3000/json/zhouying/images/zy-4a43.png",
+          "zyItemName":"小米电视4A 43英寸青春版",
+          "zyItemprice":"1499元起",
+          "zyItemflags":"新品"
+        },
+        {
+          "zyItemImg":"http://localhost:3000/json/zhouying/images/zy-50.png",
+          "zyItemName":"小米电视4A 50英寸",
+          "zyItemprice":"1999元起",
+          "zyItemflags":"热卖"
+        },
+        {
+          "zyItemImg":"http://localhost:3000/json/zhouying/images/zy-4A-55.png",
+          "zyItemName":"小米电视4A 55英寸",
+          "zyItemprice":"2499元起",
+          "zyItemflags":"热卖"
+        },
+        {
+          "zyItemImg":"http://localhost:3000/json/zhouying/images/zy-4a65555.png",
+          "zyItemName":"查看全部",
+          "zyItemprice":"小米电视",
+          "zyItemflags":"",
+          "isboder":"true",
+          "color":"true"
+        }
+      ]
+    },
+    {
+      "zynavName": "笔记本",
+      "zynavIem":[
+        {
+          "zyItemImg":"http://localhost:3000/json/zhouying/images/zy-bijiben32012.5.png",
+          "zyItemName":"小米笔记本 Air 12.5",
+          "zyItemprice":"3599起",
+          "zyItemflags":""
+        },
+        {
+          "zyItemImg":"http://localhost:3000/json/zhouying/images/zy-daohang13.3.png",
+          "zyItemName":"小米笔记本 Air 13.3",
+          "zyItemprice":"4999起",
+          "zyItemflags":""
+        },
+        {
+          "zyItemImg":"http://localhost:3000/json/zhouying/images/zy-320x220biiben.png",
+          "zyItemName":"小米笔记本 15.6",
+          "zyItemprice":"4199起",
+          "zyItemflags":"新品"
+        },
+        {
+          "zyItemImg":"http://localhost:3000/json/zhouying/images/zy-WechatIMG603.png",
+          "zyItemName":"小米笔记本 Pro 15.6",
+          "zyItemprice":"5599起",
+          "zyItemflags":""
+        },
+        {
+          "zyItemImg":"http://localhost:3000/json/zhouying/images/zy-xinbijiben.png",
+          "zyItemName":"小米游戏本",
+          "zyItemprice":"6699起",
+          "zyItemflags":"新品"
+        },
+        {
+          "zyItemImg":"http://localhost:3000/json/zhouying/images/zy-pingbanok.png",
+          "zyItemName":"小米平板",
+          "zyItemprice":"1099起",
+          "zyItemflags":"",
+          "isboder":"true"
+
+        }
+      ]
+    },
+    {
+      "zynavName": "空调",
+      "zynavIem":[
+        {
+          "zyItemImg":"http://localhost:3000/json/zhouying/images/zy-kongtiao320-220.png",
+          "zyItemName":"米家互联网空调",
+          "zyItemprice":"1999元起",
+          "zyItemflags":"",
+          "isboder":"true"
+        }
+      ]
+    },
+    {
+      "zynavName": "新品",
+      "zynavIem":[
+        {
+          "zyItemImg":"http://localhost:3000/json/zhouying/images/zy-qingchun-320.png",
+          "zyItemName":"小米8 青春版",
+          "zyItemprice":"1399元起",
+          "zyItemflags":"新品"
+        },
+        {
+          "zyItemImg":"http://localhost:3000/json/zhouying/images/zy-pingmu-320.png",
+          "zyItemName":"小米8 屏幕指纹版",
+          "zyItemprice":"3199元起",
+          "zyItemflags":"新品"
+        },
+        {
+          "zyItemImg":"http://localhost:3000/json/zhouying/images/zy-shouhuanNFC.png",
+          "zyItemName":"小米手环3 NFC版",
+          "zyItemprice":"199元起",
+          "zyItemflags":""
+        },
+        {
+          "zyItemImg":"http://localhost:3000/json/zhouying/images/zy-shexiangjizengqiang.png",
+          "zyItemName":"小米家小白智能摄像机增强版",
+          "zyItemprice":"399元起",
+          "zyItemflags":""
+        },
+        {
+          "zyItemImg":"http://localhost:3000/json/zhouying/images/zy-naozhong.png",
+          "zyItemName":"小米小爱智能闹钟",
+          "zyItemprice":"149元起",
+          "zyItemflags":""
+        },
+        {
+          "zyItemImg":"http://localhost:3000/json/zhouying/images/zy-xiaoaisuishenxin.png",
+          "zyItemName":"小米小爱蓝牙音箱随身版",
+          "zyItemprice":"499元起",
+          "zyItemflags":"",
+          "isboder":"true"
+
+        }
+      ]
+    },
+    {
+      "zynavName": "路由器",
+      "zynavIem":[
+        {
+          "zyItemImg":"http://localhost:3000/json/zhouying/images/zy-xiaomiluyouqi4.png",
+          "zyItemName":"小米路由器 4",
+          "zyItemprice":"179元",
+          "zyItemflags":"双频双核"
+        },
+        {
+          "zyItemImg":"http://localhost:3000/json/zhouying/images/zy-4Q.png",
+          "zyItemName":"小米路由器 4Q",
+          "zyItemprice":"99元",
+          "zyItemflags":""
+        },
+        {
+          "zyItemImg":"http://localhost:3000/json/zhouying/images/zy-3A.png",
+          "zyItemName":"小米路由器 3A",
+          "zyItemprice":"139元",
+          "zyItemflags":""
+        },
+        {
+          "zyItemImg":"http://localhost:3000/json/zhouying/images/zy-3G.png",
+          "zyItemName":"小米路由器 3G",
+          "zyItemprice":"189元",
+          "zyItemflags":"双千兆"
+        },
+        {
+          "zyItemImg":"http://localhost:3000/json/zhouying/images/zy-PRO.png",
+          "zyItemName":"小米路由器 HD/Pro",
+          "zyItemprice":"499元起",
+          "zyItemflags":"大容量"
+        },
+        {
+          "zyItemImg":"http://localhost:3000/json/zhouying/images/zy-quanbuluyouqi.png",
+          "zyItemName":"查看全部小米路由器",
+          "zyItemprice":"",
+          "zyItemflags":"",
+          "isboder":"true"
+        }
+      ]
+    },
+    {
+      "zynavName": "智能硬件",
+      "zynavIem":[
+        {
+          "zyItemImg":"http://localhost:3000/json/zhouying/images/zy-kongqijinghuaqi.png",
+          "zyItemName":"米家空气净化器Pro",
+          "zyItemprice":"1499元",
+          "zyItemflags":"新品"
+        },
+        {
+          "zyItemImg":"http://localhost:3000/json/zhouying/images/zy-xiaomijingshuiqi.png",
+          "zyItemName":"小米净水器",
+          "zyItemprice":"1999元",
+          "zyItemflags":""
+        },
+        {
+          "zyItemImg":"http://localhost:3000/json/zhouying/images/zy-saodijiqiren320-220.png",
+          "zyItemName":"米家扫地机器人",
+          "zyItemprice":"1699元",
+          "zyItemflags":""
+        },
+        {
+          "zyItemImg":"http://localhost:3000/json/zhouying/images/zy-mini.png",
+          "zyItemName":"小米小爱音箱mini",
+          "zyItemprice":"169元",
+          "zyItemflags":""
+        },
+        {
+          "zyItemImg":"http://localhost:3000/json/zhouying/images/zy-tixudao.png",
+          "zyItemName":"米家电动剃须刀",
+          "zyItemprice":"199元",
+          "zyItemflags":""
+        },
+        {
+          "zyItemImg":"http://localhost:3000/json/zhouying/images/zy-air2.png",
+          "zyItemName":"查看全部",
+          "zyItemprice":"智能硬件",
+          "zyItemflags":"",
+          "isboder":"true",
+          "color":"true"
+        }
+      ]
+    },
+    {
+      "zynavName": "服务",
+      "zynavIem":[],
+      "childnone":"true"
+    },
+    {
+      "zynavName": "社区",
+      "zynavIem":[],
+      "childnone":"true"
+    }
+
+
+
+]

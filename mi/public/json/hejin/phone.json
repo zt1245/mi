@@ -1,0 +1,74 @@
+[
+  {
+    "id": "001",
+    "title": "小米8 青春版 4GB+64GB",
+    "desc": "潮流镜面渐变色，2400万自拍旗舰",
+    "price": "1399",
+    "del": "",
+    "flag": "新品",
+    "src": "http://localhost:3000/json/hejin/Phone/phone1.jpg"
+  },
+  {
+    "id": "002",
+    "title": "小米8 屏幕指纹版 8GB+128GB",
+    "desc": "全球首款压感屏幕指纹，双频GPS超精准定位",
+    "price": "3599",
+    "del": "",
+    "flag": "新品",
+    "src": "http://localhost:3000/json/hejin/Phone/phone2.jpg"
+  },
+  {
+    "id": "003",
+    "title": "小米8 SE 4GB+64GB",
+    "desc": "AI 超感光双摄，三星 AMOLED 屏幕",
+    "price": "1499",
+    "del": "1799",
+    "flag": "减 300 元  ",
+    "src": "http://localhost:3000/json/hejin/Phone/phone3.jpg"
+  },
+  {
+    "id": "004",
+    "title": "小米MIX 2S 8GB+256GB",
+    "desc": "骁龙845 年度旗舰处理器，艺术品般陶瓷机身",
+    "price": "3399",
+    "del": "3999",
+    "flag": "减 600 元",
+    "src": "http://localhost:3000/json/hejin/Phone/phone4.jpg"
+  },
+  {
+    "id": "005",
+    "title": "小米6X 6GB+128GB",
+    "desc": "轻薄美观的拍照手机",
+    "price": "1649",
+    "del": "1999",
+    "flag": "减 350 元",
+    "src": "http://localhost:3000/json/hejin/Phone/phone5.jpg"
+  },
+  {
+    "id": "006",
+    "title": "小米Max 3 4GB+64GB",
+    "desc": "",
+    "price": "1599",
+    "del": "1699",
+    "flag": "减 100 元",
+    "src": "http://localhost:3000/json/hejin/Phone/phone6.jpg"
+  },
+  {
+    "id": "007",
+    "title": "红米6 Pro 3GB+32GB",
+    "desc": "",
+    "price": "869",
+    "del": "999",
+    "flag": "减 130 元",
+    "src": "http://localhost:3000/json/hejin/Phone/phone7.jpg"
+  },
+  {
+    "id": "008",
+    "title": "红米6A 2GB+16GB",
+    "desc": "",
+    "price": "569",
+    "del": "599",
+    "flag": "减 30 元",
+    "src": "http://localhost:3000/json/hejin/Phone/phone8.jpg"
+  }
+]

@@ -1,0 +1,382 @@
+[
+  {
+    "id": "001",
+    "phone_name": "小米8 青春版",
+    "active": false,
+    "show_img": [
+      "http://localhost:3000/json/zhuoting/images/001pic01.jpg",
+      "http://localhost:3000/json/zhuoting/images/001pic02.jpg",
+      "http://localhost:3000/json/zhuoting/images/001pic03.jpg",
+      "http://localhost:3000/json/zhuoting/images/001pic04.jpg"
+    ],
+    "pic": "http://localhost:3000/json/zhuoting/images/001pic01.jpg",
+    "phone_dec": [
+      "「4GB+128GB 大容量新款，现货热卖中！」",
+      "潮流镜面渐变色 / 2400万自拍旗舰 / 7.5mm超薄机身 / 6.26小刘海全面屏 / AI裸妆美颜 / 骁龙660AIE处理器"
+    ],
+    "aftersale_company": "小米自营",
+    "price": "1399",
+    "original_price": null,
+    "phone_version": [
+      {
+        "version": "4GB+64GB全网通",
+        "price": "1399"
+      },
+      {
+        "version": "6GB+64GB全网通",
+        "price": "1699"
+      },
+      {
+        "version": "6GB+128GB全网通",
+        "price": "1999"
+      },
+      {
+        "version": "4GB+128GB全网通",
+        "price": "1799"
+      }
+    ],
+    "phone_color": [
+      {
+        "img": "http://localhost:3000/json/zhuoting/images/001pic02.jpg",
+        "color": "梦幻蓝"
+      },
+      {
+        "img": "http://localhost:3000/json/zhuoting/images/001pic03.jpg",
+        "color": "深灰空"
+      }
+    ]
+  },
+  {
+    "id": "002",
+    "phone_name": "小米8 屏幕指纹版",
+    "active": true,
+    "show_img": [
+      "http://localhost:3000/json/zhuoting/images/002pic01.jpg",
+      "http://localhost:3000/json/zhuoting/images/002pic02.png",
+      "http://localhost:3000/json/zhuoting/images/002pic03.png",
+      "http://localhost:3000/json/zhuoting/images/002pic04.png"
+    ],
+    "pic": "http://localhost:3000/json/zhuoting/images/002pic01.jpg",
+    "phone_dec": [
+      "",
+      "全球首款 压感屏幕指纹 / 双频GPS超精准定位 / 支持红外人脸识别 / 骁龙845 AIE 旗舰处理器"
+    ],
+    "aftersale_company": "小米自营",
+    "price": "3599",
+    "original_price": null,
+    "phone_version": [
+      {
+        "version": "8GB+128GB全网通",
+        "price": "3399"
+      },
+      {
+        "version": "6GB+128GB全网通",
+        "price": "2999"
+      }
+    ],
+    "phone_color": [
+      {
+        "img": "http://localhost:3000/json/zhuoting/images/002pic01.jpg",
+        "color": "透明"
+      },
+      {
+        "img": "http://localhost:3000/json/zhuoting/images/002pic03.png",
+        "color": "暮光金"
+      }
+    ]
+  },
+  {
+    "id": "003",
+    "phone_name": "小米8 SE",
+    "active": true,
+    "show_img": [
+      "http://localhost:3000/json/zhuoting/images/003pic01.jpg",
+      "http://localhost:3000/json/zhuoting/images/003pic02.jpg",
+      "http://localhost:3000/json/zhuoting/images/003pic03.jpg",
+      "http://localhost:3000/json/zhuoting/images/003pic04.jpg"
+    ],
+    "pic": "http://localhost:3000/json/zhuoting/images/003pic01.jpg",
+    "phone_dec": [
+      "「6GB+128GB，限时秒杀，立省350元」「4GB+64GB立省300元」「6GB+64GB，限时秒杀，立省250元」",
+      "三星 AMOLED 全面屏 小屏旗舰 / 骁龙710处理器 / AI 超感光双摄 / 前置2000万柔光自拍"
+    ],
+    "aftersale_company": "小米自营",
+    "price": "1749",
+    "original_price": "1999",
+    "phone_version": [
+      {
+        "version": "6GB+64GB全网通",
+        "price": "1749"
+      },
+      {
+        "version": "6GB+128GB全网通",
+        "price": "1949"
+      },
+      {
+        "version": "4GB+64GB全网通",
+        "price": "1499"
+      }
+    ],
+    "phone_color": [
+      {
+        "img": "http://localhost:3000/json/zhuoting/images/003pic01.jpg",
+        "color": "深灰"
+      },
+      {
+        "img": "http://localhost:3000/json/zhuoting/images/003pic03.jpg",
+        "color": "亮蓝"
+      }
+    ]
+  },
+  {
+    "id": "004",
+    "phone_name": "小米MIX 2S",
+    "active": false,
+    "show_img": [
+      "http://localhost:3000/json/zhuoting/images/004pic01.jpg",
+      "http://localhost:3000/json/zhuoting/images/004pic02.jpg",
+      "http://localhost:3000/json/zhuoting/images/004pic03.jpg",
+      "http://localhost:3000/json/zhuoting/images/004pic04.jpg"
+    ],
+    "pic": "http://localhost:3000/json/zhuoting/images/004pic01.jpg",
+    "phone_dec": [
+      "「6GB+128GB，移动4G+版，立省900元」「6GB+128GB，立省600元送无线座充」「8GB+256GB，黑色／白色立省600元，翡翠色立省400元」",
+      "陶瓷机身 手机中的艺术品 / 搭载高通骁龙845 年度旗舰处理器 / AI超感光双摄，DxO百分相机 / 高效 Qi 无线充电"
+    ],
+    "aftersale_company": "小米自营",
+    "price": "3599",
+    "original_price": "3999",
+    "phone_version": [
+      {
+        "version": "6GB+128GB",
+        "price": "2999"
+      },
+      {
+        "version": "8GB+256GB尊享版",
+        "price": "3399"
+      },
+      {
+        "version": "8GB+256GB翡翠色",
+        "price": "3599"
+      },
+      {
+        "version": "6GB+128GB移动4G+",
+        "price": "2699"
+      }
+    ],
+    "phone_color": [
+      {
+        "img": "http://localhost:3000/json/zhuoting/images/004pic01.jpg",
+        "color": "白色"
+      },
+      {
+        "img": "http://localhost:3000/json/zhuoting/images/004pic02.jpg",
+        "color": "黑色"
+      },
+      {
+        "img": "http://localhost:3000/json/zhuoting/images/004pic03.jpg",
+        "color": "翡翠色"
+      }
+    ]
+  },
+  {
+    "id": "005",
+    "phone_name": "小米6X",
+    "active": true,
+    "show_img": [
+      "http://localhost:3000/json/zhuoting/images/005pic01.jpg",
+      "http://localhost:3000/json/zhuoting/images/005pic02.jpg",
+      "http://localhost:3000/json/zhuoting/images/005pic03.jpg",
+      "http://localhost:3000/json/zhuoting/images/005pic04.jpg"
+    ],
+    "pic": "http://localhost:3000/json/zhuoting/images/005pic01.jpg",
+    "phone_dec": [
+      "「6GB+64GB，移动4G+版 ，立省450元」「4GB+64GB，粉色/红色限时秒杀，立省400元」 「6GB+128GB立省350元」「6GB+64GB立省250元」",
+      "轻薄美观的拍照手机 / 前置2000万“治愈系”自拍 / 后置2000万 AI双摄 / 标配骁龙660 AIE处理器"
+    ],
+    "aftersale_company": "小米自营",
+    "price": "1549",
+    "original_price": "1799",
+    "phone_version": [
+      {
+        "version": "4GB+64GB",
+        "price": "1199"
+      },
+      {
+        "version": "6GB+128GB",
+        "price": "1649"
+      },
+      {
+        "version": "6GB+64GB",
+        "price": "1549"
+      },
+      {
+        "version": "6GB+64GB移动4G+",
+        "price": "1349"
+      }
+    ],
+    "phone_color": [
+      {
+        "img": "http://localhost:3000/json/zhuoting/images/005pic01.jpg",
+        "color": "樱花粉"
+      },
+      {
+        "img": "http://localhost:3000/json/zhuoting/images/005pic02.jpg",
+        "color": "赤焰红"
+      },
+      {
+        "img": "http://localhost:3000/json/zhuoting/images/005pic03.jpg",
+        "color": "冰川蓝"
+      },
+      {
+        "img": "http://localhost:3000/json/zhuoting/images/005pic03.jpg",
+        "color": "曜石黑"
+      }
+    ]
+  },
+  {
+    "id": "006",
+    "phone_name": "小米Max 3",
+    "active": false,
+    "show_img": [
+      "http://localhost:3000/json/zhuoting/images/006pic01.jpg",
+      "http://localhost:3000/json/zhuoting/images/006pic02.jpg",
+      "http://localhost:3000/json/zhuoting/images/006pic03.jpg",
+      "http://localhost:3000/json/zhuoting/images/006pic04.jpg"
+    ],
+    "pic": "http://localhost:3000/json/zhuoting/images/006pic01.jpg",
+    "phone_dec": [
+      "",
+      "大屏大电量 震撼视界 / 5500mAh 电量，支持给多个设备充电 / AI 双摄超大像素，双核对焦 / 单手可握纤薄全金属机身"
+    ],
+    "aftersale_company": "小米自营",
+    "price": "1599",
+    "original_price": "1699",
+    "phone_version": [
+      {
+        "version": "4GB+64GB",
+        "price": "1599"
+      },
+      {
+        "version": "6GB+128GB",
+        "price": "1849"
+      }
+    ],
+    "phone_color": [
+      {
+        "img": "http://localhost:3000/json/zhuoting/images/006pic01.jpg",
+        "color": "黑色"
+      },
+      {
+        "img": "http://localhost:3000/json/zhuoting/images/006pic03.jpg",
+        "color": "蓝色"
+      },
+      {
+        "img": "http://localhost:3000/json/zhuoting/images/006pic04.jpg",
+        "color": "金色"
+      }
+    ]
+  },
+  {
+    "id": "007",
+    "phone_name": "红米6 Pro",
+    "active": true,
+    "show_img": [
+      "http://localhost:3000/json/zhuoting/images/007pic01.jpg",
+      "http://localhost:3000/json/zhuoting/images/007pic02.jpg",
+      "http://localhost:3000/json/zhuoting/images/007pic03.jpg",
+      "http://localhost:3000/json/zhuoting/images/007pic04.jpg"
+    ],
+    "pic": "http://localhost:3000/json/zhuoting/images/007pic01.jpg",
+    "phone_dec": [
+      "「4GB+32GB ，限时特惠，到手价899元」「4GB+64GB ，限时特惠，到手价1099元」「赠米粉卡」",
+      "高颜值大电量 红米旗舰 / 异形全面屏 19:9 FHD＋ / 后置1200万 AI双摄"
+    ],
+    "aftersale_company": "小米自营",
+    "price": "869",
+    "original_price": "999",
+    "phone_version": [
+      {
+        "version": "4GB+32GB全网通",
+        "price": "999"
+      },
+      {
+        "version": "3GB+32GB全网通",
+        "price": "819"
+      },
+      {
+        "version": "4GB+64GB全网通",
+        "price": "1099"
+      }
+    ],
+    "phone_color": [
+      {
+        "img": "http://localhost:3000/json/zhuoting/images/007pic06.jpg",
+        "color": "樱花粉"
+      },
+      {
+        "img": "http://localhost:3000/json/zhuoting/images/007pic02.jpg",
+        "color": "巴黎蓝"
+      },
+      {
+        "img": "http://localhost:3000/json/zhuoting/images/007pic03.jpg",
+        "color": "流沙金"
+      },
+      {
+        "img": "http://localhost:3000/json/zhuoting/images/007pic05.jpg",
+        "color": "曜石黑"
+      },
+      {
+        "img": "http://localhost:3000/json/zhuoting/images/007pic04.jpg",
+        "color": "赤焰红"
+      }
+    ]
+  },
+  {
+    "id": "008",
+    "phone_name": "红米6A",
+    "active": false,
+    "show_img": [
+      "http://localhost:3000/json/zhuoting/images/008pic01.jpg",
+      "http://localhost:3000/json/zhuoting/images/008pic02.jpg",
+      "http://localhost:3000/json/zhuoting/images/008pic03.jpg",
+      "http://localhost:3000/json/zhuoting/images/008pic04.jpg"
+    ],
+    "pic": "http://localhost:3000/json/zhuoting/images/008pic01.jpg",
+    "phone_dec": [
+      "「2GB+16GB，立省30元」「3GB+32GB，立省30元」「赠米粉卡」",
+      "好用好看不贵 / 12nm高性能处理器 / 1300万高清相机 / “小杨柳腰”机身"
+    ],
+    "aftersale_company": "小米自营",
+    "price": "569",
+    "original_price": "599",
+    "phone_version": [
+      {
+        "version": "2GB+16GB",
+        "price": "569"
+      },
+      {
+        "version": "3GB+32GB",
+        "price": "669"
+      }
+    ],
+    "phone_color": [
+      {
+        "img": "http://localhost:3000/json/zhuoting/images/008pic01.jpg",
+        "color": "流沙金"
+      },
+      {
+        "img": "http://localhost:3000/json/zhuoting/images/008pic02.jpg",
+        "color": "铂银灰"
+      },
+      {
+        "img": "http://localhost:3000/json/zhuoting/images/008pic03.jpg",
+        "color": "樱花粉"
+      },
+      {
+        "img": "http://localhost:3000/json/zhuoting/images/008pic04.jpg",
+        "color": "巴黎蓝"
+      }
+    ]
+  }
+]

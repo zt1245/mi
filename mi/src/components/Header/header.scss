@@ -1,0 +1,332 @@
+.zy-header {
+  .zy-topbar{
+    font-size:12px;
+    height: 40px;
+    line-height:40px;
+    background:#333;
+    .zy-container{
+      width:1226px;
+      margin:0 auto;
+      .zy-nav{
+        ul li{
+          float:left;
+          a{
+            color:#b0b0b0;
+            display:inline-block;
+            padding:0 6px;
+            position:relative;
+            &.zy-navone{
+              padding:0 6px 0 0;
+            }
+            &:hover{
+              color:#fff;
+              .zy-appimg{
+                display:block;
+              }
+
+            }
+            .zy-appimg{
+              width:124px;
+              position:absolute;
+              top:40px;
+              left:50%;
+              line-height:1;
+              padding:18px 0px 14px;
+              background:#fff;
+              text-align:center;
+              box-shadow: rgb(170, 170, 170) 0px 1px 5px;
+              margin-left:-55px;
+              display:none;
+              z-index:22;
+              img {
+                margin-bottom:14px;
+                width:90px;
+              }
+              .zy-arrow{
+                position:absolute;
+                width:0;
+                height:0;
+                border:10px solid #fff;
+                border-top:0;
+                border-color:transparent transparent #fff transparent;
+                left:50px;
+                top:-10px;
+              }
+              .zy-miapp{
+                display:inline-block;
+                line-height:1;
+                font-size: 14px;
+                color: #333;
+                // position:absolute;
+              }
+            }
+          }
+          span{
+            color:#424242;
+          }
+        }
+
+      }
+      .zy-cart{
+        text-align:center;
+        width:120px;
+        margin-left:15px;
+        float:right;
+        position:relative;
+        height:40px;
+
+        &:hover{
+          .zy-mini{
+            color:#ff6700;
+            background:#fff;
+
+          }
+          .zy-menu{
+            display:block;
+
+            .zy-showshop{
+              display:block;
+            }
+          }
+
+          }
+
+          .zy-mini{
+            position: relative;
+            z-index: 46;
+            display: block;
+            height: 40px;
+            line-height: 40px;
+            text-align: center;
+            color: #b0b0b0;
+            background: #424242;
+          }
+          .zy-menu{
+            display:none;
+            position:absolute;
+            right:0;
+            top:40px;
+            width:316px;
+            padding:15px 0 0;
+            background:#fff;
+            color: #424242;
+            z-index:45;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.15);
+            .zy-showshop{
+              display:none;
+              .zy-shoplist{
+                padding:0 20px;
+                max-height: 445px;
+                overflow-y: auto;
+                li:last-child{
+                  border:none;
+                }
+                li{
+                  display:flex;
+                  position:relative;
+                  padding:10px;
+                  border-bottom:1px solid #ccc;
+                  &:hover{
+                    .zy-delete{
+                      display:block;
+                    }
+                  }
+                  .zy-shoplistImg{
+                    cursor:pointer;
+                    width: 60px;
+                    height: 60px;
+                  }
+                  .zy-shopName{
+                    display:inline-block;
+                    color:#424242;
+                    margin-top: 10px;
+                    padding:0px 20px 0px 10px;
+                    width: 95px;
+                    &:hover{
+                      color:#ff6700;
+                    }
+                  }
+                  .zy-delete{
+                    display:none;
+                    position:absolute;
+                    top:18px;
+                    right:0px;
+                    font-size:16px;
+                    color:#ccc;
+                    &:hover{
+                      color:#000;
+                    }
+                  }
+                }
+              }
+              .zy-zong{
+                background:#e6ebf345;
+                height:80px;
+                align-items: center;
+                text-align:center;
+                display:flex;
+                .zy-shopinfo{
+                  text-align:left;
+                  line-height:1;
+                  margin-left:20px;
+                  width:44%;
+                  display:flex;
+                  flex-direction:column;
+                  .zy-num{
+                    color:#424242;
+                    margin-bottom:10px;
+                  }
+                  .zy-dan{
+                    font-size: 18px;
+                    color:#ff6700;
+                  }
+                }
+                .zy-price{
+                  cursor:pointer;
+                  font-size:14px;
+                  color:#fff;
+                  padding:0 26px;
+                  background:#ff6700;
+                  .zy-pr{
+                    color:#fff;
+                  }
+                }
+              }
+
+            }
+
+
+            .zy-loading{
+              margin: 5px 20px 20px;
+              text-align: center;
+              padding: 20px 0;
+              line-height:18px;
+              display:none;
+              .zy-loader{
+
+              }
+
+            }
+          }
+
+
+        }
+
+        .zy-info{
+          // display:none;
+          float:right;
+          .zy-user{
+            li{
+              float:left;
+              a{
+
+                padding:0 5px;
+                color:#b0b0b0;
+                display:inline-block;
+                height:40px;
+                &:hover{
+                  color:#fff;
+                }
+              }
+              span{
+                color:#424242;
+              }
+            }
+          }
+
+        }
+      .zy-islogin{
+        position: relative;
+        float: right;
+
+        .zy-loginIfor{
+          float:left;
+          color:#b0b0b0;
+
+          .zy-userlogin{
+            float:left;
+            width: 110px;
+            text-align:right;
+            &:hover{
+              .zy-loginName{
+                color:#ff6700;
+                background:#fff;
+              }
+              .zy-loginmore{
+                display:block;
+
+              }
+            }
+
+            .zy-loginName{
+              color:#b0b0b0;
+              display:inline-block;
+              width: 120px;
+              text-align:center;
+              z-index:35;
+              position:relative;
+
+            }
+            .zy-loginmore{
+              display:none;
+              font-size:12px;
+              position: absolute;
+              left: 0;
+              top: 40px;
+              z-index: 33;
+              width: 120px;
+              margin: 0;
+              padding: 7px 0;
+              background: #fff;
+              box-shadow: 0 2px 10px rgba(0,0,0,0.15);
+              li a{
+                text-align:left;
+                padding:3px 30px;
+                line-height: 2;
+                color:#424242;
+                display:block;
+                background:#fff;
+                &:hover{
+
+                  color:#ff6700;
+                  background:#f5f5f5;
+                }
+              }
+            }
+          }
+          .zy-solid{
+            float:left;
+            color: #424242;
+            padding:0 10px;
+          }
+          .zy-message{
+            float:left;
+
+            a{
+              color:#b0b0b0;
+              display:inline-block;
+              &:hover{
+                color:#fff;
+              }
+            }
+          }
+          .zy-order{
+            float:left;
+
+            a{
+              color:#b0b0b0;
+              display:inline-block;
+              &:hover{
+                color:#fff;
+              }
+            }
+          }
+        }
+      }
+
+      }
+
+
+    }
+  }
+

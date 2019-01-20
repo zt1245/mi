@@ -1,0 +1,112 @@
+[
+  {
+    "type": "图书",
+    "list": [
+      {
+        "name": "哈利·波特与被诅咒的孩子",
+        "desc": "“哈利·波特”第八个故事中文版震撼来袭！特别彩排版剧本！ ",
+        "price": "29.37元",
+        "src": "http://localhost:3000/json/hejin/Content/content1.png"
+      },
+      {
+        "name": "好吗好的",
+        "desc": "畅销作家大冰2016年新书！讲给你听，好吗好的！",
+        "price": "17.99元",
+        "src": "http://localhost:3000/json/hejin/Content/content2.png"
+      }
+    ],
+    "more": {
+      "desc1": "海量好书，享受精品阅读时光",
+      "desc2": "漂亮的中文排版，千万读者选择！",
+      "moreBooks": "前往多看阅读",
+      "src": "http://localhost:3000/json/hejin/Content/content3.jpg"
+    }
+  },
+  {
+    "type": "MIUI 主题",
+    "list": [
+      {
+        "name": "熊本熊 酷MA萌",
+        "desc": "戳一戳、摸一摸，酷MA萌会在锁屏跟你亲密互动哦。",
+        "price": "",
+        "src": "http://localhost:3000/json/hejin/Content/content4.jpg"
+      },
+      {
+        "name": "蚁人2",
+        "desc": "小米主题和迪士尼首度合作，打造精品漫威系列主题",
+        "price": "",
+        "src": "http://localhost:3000/json/hejin/Content/content5.png"
+      },
+      {
+        "name": "复仇者联盟3-我的英雄",
+        "desc": "28张超级英雄个人专属锁屏及桌面壁纸随你挑！ ",
+        "price": "8.8米币",
+        "src": "http://localhost:3000/json/hejin/Content/content6.png"
+      }
+    ],
+    "more": {
+      "desc1": "众多个性主题、百变锁屏与自由桌面",
+      "desc2": "让你的手机与众不同！",
+      "moreBooks": "前往MIUI主题市场",
+      "src": "http://localhost:3000/json/hejin/Content/content7.jpg"
+    }
+  },
+  {
+    "type": "游戏",
+    "list": [
+      {
+        "name": "非人学园",
+        "desc": "脑洞大开的二次元竞技手游",
+        "price": "",
+        "src": "http://localhost:3000/json/hejin/Content/content8.png"
+      },
+      {
+        "name": "小米超神",
+        "desc": "实力派，一起团！！",
+        "price": "",
+        "src": "http://localhost:3000/json/hejin/Content/content9.png"
+      },
+      {
+        "name": "米柚手游模拟器",
+        "desc": "在电脑上玩遍小米所有手游 ",
+        "price": "免费",
+        "src": "http://localhost:3000/json/hejin/Content/content10.png"
+      }
+    ],
+    "more": {
+      "desc1": "免费下载海量的手机游戏",
+      "desc2": "天天都有现金福利赠送",
+      "moreBooks": "前往小米游戏商店",
+      "src": "http://localhost:3000/json/hejin/Content/content11.jpg"
+    }
+  },
+  {
+    "type": "应用",
+    "list": [
+      {
+        "name": "2017金米奖",
+        "desc": "最优秀的应用和游戏",
+        "price": "",
+        "src": "http://localhost:3000/json/hejin/Content/content12.png"
+      },
+      {
+        "name": "Forest",
+        "desc": "帮助您专心于生活中每个重要时刻",
+        "price": "免费",
+        "src": "http://localhost:3000/json/hejin/Content/content13.png"
+      },
+      {
+        "name": "小米应用",
+        "desc": "小米出品 必属精品 ",
+        "price": "免费",
+        "src": "http://localhost:3000/json/hejin/Content/content14.png"
+      }
+    ],
+    "more": {
+      "desc1": "帮助小米手机和其他安卓手机用户",
+      "desc2": "发现好用的安卓应用",
+      "moreBooks": "前往小米应用商店",
+      "src": "http://localhost:3000/json/hejin/Content/content15.jpg"
+    }
+  }
+]

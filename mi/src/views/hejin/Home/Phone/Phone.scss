@@ -1,0 +1,168 @@
+#hj-phone {
+  height: 686px;
+  margin-bottom: 8px;
+  .box-hd {
+    position: relative;
+    height: 58px;
+    .title {
+      margin: 0;
+      font-size: 22px;
+      font-weight: 200;
+      line-height: 58px;
+      color: #333;
+    }
+    .more {
+      position: absolute;
+      top: 0;
+      right: 0;
+      // vertical-align: middle;
+      a {
+        font-size: 16px;
+        line-height: 58px;
+        color: #424242;
+        transition: all .4s;
+        i {
+          font-size: 18px;
+          vertical-align: 1px;
+          color: #b0b0b0;
+          position: relative;
+          right: 0;
+          margin-left: 11px;
+          top: 2px;
+        }
+      }
+      a:hover {
+        color: #ff6700;
+        i {
+          color: #ff6700;
+        }
+      }
+    }
+
+  }
+
+  .box-bd {
+    .row {
+      margin-left: -14px;
+      overflow: hidden;
+      .span4 {
+        width: 234px;
+        float: left;
+        margin-left: 14px;
+        min-height: 1px;
+        .brick-promo-list {
+          height: 614px;
+          margin: 0 0 -14px -14px;
+          .brick-item {
+            position: relative;
+            z-index: 1;
+            float: left;
+            width: 234px;
+            margin-left: 14px;
+            margin-bottom: 14px;
+            background: #fff;
+            transition: all .2s linear;
+            a {
+              width: 100%;
+              height: 100%;
+              display: block;
+              img {
+                width: 234px;
+                height: 614px;
+              }
+            }
+          }
+        }
+      }
+      .span16 {
+        width: 978px;
+        float: left;
+        margin-left: 14px;
+        min-height: 1px;
+        .brick-list {
+          margin: 0 0 -14px -14px;
+          width: 992px;
+          height: 614px;
+          .brick-item {
+            position: relative;
+            z-index: 1;
+            float: left;
+            width: 234px;
+            margin-left: 14px;
+            margin-bottom: 14px;
+            background: #fff;
+            transition: all .2s linear;
+            // height: 260px;
+            padding: 20px 0;
+            .figure {
+              width: 160px;
+              height: 160px;
+              margin: 0 auto 18px;
+              a {
+                display: block;
+                img {
+                  width: 100%;
+                  height: 100%;
+                }
+              }
+            }
+            .title {
+              margin: 0 10px 2px;
+              color: #333;
+              font-size: 14px;
+              text-align: center;
+              font-weight: 400;
+              a {
+                text-overflow: ellipsis;
+                white-space: nowrap;
+                overflow: hidden;
+                display: block;
+                color: #333;
+              }
+            }
+            .desc {
+              text-overflow: ellipsis;
+              overflow: hidden;
+              white-space: nowrap;
+              margin: 0 10px 10px;
+              height: 18px;
+              font-size: 12px;
+              color: #b0b0b0;
+              text-align: center;
+            }
+            .price {
+              text-align: center;
+              color: #ff6700;
+              margin: 0 10px 14px;
+              font-size: 14px;
+              del {
+                color: #b0b0b0;
+              }
+            }
+            .flag {
+              width: 64px;
+              height: 20px;
+              margin-left: -32px;
+              font-size: 12px;
+              line-height: 20px;
+              text-align: center;
+              color: #fff;
+              position: absolute;
+              top: 0;
+              left: 50%;
+              background-color: #83c44e;
+              z-index: 5;
+            }
+          }
+          .brick-item:hover {
+            box-shadow: 0 15px 30px rgba(0,0,0,0.1);
+          }
+
+        }
+
+      }
+
+    }
+
+  }
+}

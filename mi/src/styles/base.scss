@@ -1,0 +1,31 @@
+@import './common/reset.scss';
+@import './common/variable.scss';
+
+// 公用的样式文件
+
+#root {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+.container {
+  width: 1226px;
+  margin: auto;
+}
+
+.conpainer {
+  width: 1226px;
+  margin: auto;
+}
+
+.clearfix::after {
+  content: ".";
+  clear: both;
+  display: block;
+  overflow: hidden;
+  font-size: 0;
+  height: 0;
+}
+.clearfix {
+  zoom: 1;
+}

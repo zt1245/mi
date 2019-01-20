@@ -1,0 +1,401 @@
+[
+  {
+    "span4": [
+      "http://localhost:3000/json/hejin/Homeelec/Homeelec1.jpg",
+      "http://localhost:3000/json/hejin/Homeelec/Homeelec2.jpg"
+    ],
+    "span16": [
+      {
+        "type": "热门",
+        "list": [
+          {
+            "src": "http://localhost:3000/json/hejin/Homeelec/ele1.jpg",
+            "title": "小米电视4S 75英寸",
+            "desc": "",
+            "price": 7999,
+            "del": "",
+            "rank": "",
+            "flag": "新品",
+            "review": "",
+            "author": "",
+            "isReview": false
+          },
+          {
+            "src": "http://localhost:3000/json/hejin/Homeelec/ele2.jpg",
+            "title": "小米电视4A 43英寸青春版",
+            "desc": "全高清屏 / 人工智能语音",
+            "price": 1499,
+            "del": 1699,
+            "rank": "",
+            "flag": "减 200 元",
+            "review": "一直都想买个小米电视.果然不失所望，大爱",
+            "author": " 来自于 1471474629 的评价 ",
+            "isReview": true
+          },
+          {
+            "src": "http://localhost:3000/json/hejin/Homeelec/ele3.png",
+            "title": "15.6''笔记本 i5 4G MX110",
+            "desc": "全高清屏 / 人工智能语音",
+            "price": 4199,
+            "del": "",
+            "rank": "",
+            "flag": "新品",
+            "review": "拿包裹的心是迫切的   用的都是小米的   自己送给...",
+            "author": "  来自于 大婷宝 的评价  ",
+            "isReview": true
+          },
+          {
+            "src": "http://localhost:3000/json/hejin/Homeelec/ele5.png",
+            "title": "米家空气净化器Pro",
+            "desc": "OLED 显示屏幕 / 激光颗粒物传感器",
+            "price": 1499,
+            "del": "",
+            "rank": "",
+            "flag": "",
+            "review": "卧室里的净化器小，这次买个大的放到客厅里，我米加油＾...",
+            "author": "    来自于 孔繁义 的评价   ",
+            "isReview": true
+          },
+          {
+            "src": "http://localhost:3000/json/hejin/Homeelec/ele6.jpg",
+            "title": "米家电水壶",
+            "desc": "一杯水，是一家人的安心",
+            "price": 99,
+            "del": "",
+            "rank": "",
+            "flag": "",
+            "review": "外形时尚，容量大，好打理，再也不用担心清理问题了，这...",
+            "author": "     来自于 精益眼镜 的评价    ",
+            "isReview": true
+          },
+          {
+            "src": "http://localhost:3000/json/hejin/Homeelec/ele7.png",
+            "title": "米家LED吸顶灯",
+            "desc": "用光线，还原理想生活",
+            "price": 399,
+            "del": "",
+            "rank": "",
+            "flag": "",
+            "review": "不错  方便好用   调光温馨     有调光锁定功...",
+            "author": "      来自于 千龙 的评价     ",
+            "isReview": true
+          },
+          {
+            "src": "http://localhost:3000/json/hejin/Homeelec/ele8.jpg",
+            "title": "米家LED吸顶灯",
+            "desc": "用光线，还原理想生活",
+            "price": 399,
+            "del": "",
+            "rank": "",
+            "flag": "",
+            "review": "不错  方便好用   调光温馨     有调光锁定功...",
+            "author": "      来自于 千龙 的评价     ",
+            "isReview": true
+          }
+
+        ],
+        "smallItem": [
+          {
+            "title": "小米净水器（厨下式）",
+            "src": "http://localhost:3000/json/hejin/Homeelec/ele8.jpg",
+            "price": 1899
+          }
+        ]
+      },
+      {
+        "type": "电视影音",
+        "list": [
+
+          {
+            "src": "http://localhost:3000/json/hejin/Homeelec/ele2.jpg",
+            "title": "小米电视4A 43英寸青春版",
+            "desc": "全高清屏 / 人工智能语音",
+            "price": 1499,
+            "del": 1699,
+            "rank": "",
+            "flag": "减 200 元",
+            "review": "一直都想买个小米电视.果然不失所望，大爱",
+            "author": " 来自于 1471474629 的评价 ",
+            "isReview": true
+          },
+          {
+            "src": "http://localhost:3000/json/hejin/Homeelec/ele1.jpg",
+            "title": "小米电视4S 75英寸",
+            "desc": "",
+            "price": 7999,
+            "del": "",
+            "rank": "",
+            "flag": "新品",
+            "review": "",
+            "author": "",
+            "isReview": false
+          },
+
+          {
+            "src": "http://localhost:3000/json/hejin/Homeelec/ele5.png",
+            "title": "米家空气净化器Pro",
+            "desc": "OLED 显示屏幕 / 激光颗粒物传感器",
+            "price": 1499,
+            "del": "",
+            "rank": "",
+            "flag": "",
+            "review": "卧室里的净化器小，这次买个大的放到客厅里，我米加油＾...",
+            "author": "    来自于 孔繁义 的评价   ",
+            "isReview": true
+          },
+          {
+            "src": "http://localhost:3000/json/hejin/Homeelec/ele6.jpg",
+            "title": "米家电水壶",
+            "desc": "一杯水，是一家人的安心",
+            "price": 99,
+            "del": "",
+            "rank": "",
+            "flag": "",
+            "review": "外形时尚，容量大，好打理，再也不用担心清理问题了，这...",
+            "author": "     来自于 精益眼镜 的评价    ",
+            "isReview": true
+          },
+          {
+            "src": "http://localhost:3000/json/hejin/Homeelec/ele3.png",
+            "title": "15.6''笔记本 i5 4G MX110",
+            "desc": "全高清屏 / 人工智能语音",
+            "price": 4199,
+            "del": "",
+            "rank": "",
+            "flag": "新品",
+            "review": "拿包裹的心是迫切的   用的都是小米的   自己送给...",
+            "author": "  来自于 大婷宝 的评价  ",
+            "isReview": true
+          },
+
+          {
+            "src": "http://localhost:3000/json/hejin/Homeelec/ele7.png",
+            "title": "米家LED吸顶灯",
+            "desc": "用光线，还原理想生活",
+            "price": 399,
+            "del": "",
+            "rank": "",
+            "flag": "",
+            "review": "不错  方便好用   调光温馨     有调光锁定功...",
+            "author": "      来自于 千龙 的评价     ",
+            "isReview": true
+          },
+          {
+            "src": "http://localhost:3000/json/hejin/Homeelec/ele8.jpg",
+            "title": "米家LED吸顶灯",
+            "desc": "用光线，还原理想生活",
+            "price": 399,
+            "del": "",
+            "rank": "",
+            "flag": "",
+            "review": "不错  方便好用   调光温馨     有调光锁定功...",
+            "author": "      来自于 千龙 的评价     ",
+            "isReview": true
+          }
+
+        ],
+        "smallItem": [
+          {
+            "title": "小米净水器（厨下式）",
+            "src": "http://localhost:3000/json/hejin/Homeelec/ele8.jpg",
+            "price": 1899
+          }
+        ]
+      },
+      {
+        "type": "电脑",
+        "list": [
+          {
+            "src": "http://localhost:3000/json/hejin/Homeelec/ele1.jpg",
+            "title": "小米电视4S 75英寸",
+            "desc": "",
+            "price": 7999,
+            "del": "",
+            "rank": "",
+            "flag": "新品",
+            "review": "",
+            "author": "",
+            "isReview": false
+          },
+          {
+            "src": "http://localhost:3000/json/hejin/Homeelec/ele2.jpg",
+            "title": "小米电视4A 43英寸青春版",
+            "desc": "全高清屏 / 人工智能语音",
+            "price": 1499,
+            "del": 1699,
+            "rank": "",
+            "flag": "减 200 元",
+            "review": "一直都想买个小米电视.果然不失所望，大爱",
+            "author": " 来自于 1471474629 的评价 ",
+            "isReview": true
+          },
+          {
+            "src": "http://localhost:3000/json/hejin/Homeelec/ele3.png",
+            "title": "15.6''笔记本 i5 4G MX110",
+            "desc": "全高清屏 / 人工智能语音",
+            "price": 4199,
+            "del": "",
+            "rank": "",
+            "flag": "新品",
+            "review": "拿包裹的心是迫切的   用的都是小米的   自己送给...",
+            "author": "  来自于 大婷宝 的评价  ",
+            "isReview": true
+          },
+          {
+            "src": "http://localhost:3000/json/hejin/Homeelec/ele5.png",
+            "title": "米家空气净化器Pro",
+            "desc": "OLED 显示屏幕 / 激光颗粒物传感器",
+            "price": 1499,
+            "del": "",
+            "rank": "",
+            "flag": "",
+            "review": "卧室里的净化器小，这次买个大的放到客厅里，我米加油＾...",
+            "author": "    来自于 孔繁义 的评价   ",
+            "isReview": true
+          },
+          {
+            "src": "http://localhost:3000/json/hejin/Homeelec/ele6.jpg",
+            "title": "米家电水壶",
+            "desc": "一杯水，是一家人的安心",
+            "price": 99,
+            "del": "",
+            "rank": "",
+            "flag": "",
+            "review": "外形时尚，容量大，好打理，再也不用担心清理问题了，这...",
+            "author": "     来自于 精益眼镜 的评价    ",
+            "isReview": true
+          },
+          {
+            "src": "http://localhost:3000/json/hejin/Homeelec/ele7.png",
+            "title": "米家LED吸顶灯",
+            "desc": "用光线，还原理想生活",
+            "price": 399,
+            "del": "",
+            "rank": "",
+            "flag": "",
+            "review": "不错  方便好用   调光温馨     有调光锁定功...",
+            "author": "      来自于 千龙 的评价     ",
+            "isReview": true
+          },
+          {
+            "src": "http://localhost:3000/json/hejin/Homeelec/ele7.png",
+            "title": "米家LED吸顶灯",
+            "desc": "用光线，还原理想生活",
+            "price": 399,
+            "del": "",
+            "rank": "",
+            "flag": "",
+            "review": "不错  方便好用   调光温馨     有调光锁定功...",
+            "author": "      来自于 千龙 的评价     ",
+            "isReview": true
+          }
+
+        ],
+        "smallItem": [
+          {
+            "title": "小米净水器（厨下式）",
+            "src": "http://localhost:3000/json/hejin/Homeelec/ele8.jpg",
+            "price": 1899
+          }
+        ]
+      },
+      {
+        "type": "家居",
+        "list": [
+          {
+            "src": "http://localhost:3000/json/hejin/Homeelec/ele1.jpg",
+            "title": "小米电视4S 75英寸",
+            "desc": "",
+            "price": 7999,
+            "del": "",
+            "rank": "",
+            "flag": "新品",
+            "review": "",
+            "author": "",
+            "isReview": false
+          },
+          {
+            "src": "http://localhost:3000/json/hejin/Homeelec/ele2.jpg",
+            "title": "小米电视4A 43英寸青春版",
+            "desc": "全高清屏 / 人工智能语音",
+            "price": 1499,
+            "del": 1699,
+            "rank": "",
+            "flag": "减 200 元",
+            "review": "一直都想买个小米电视.果然不失所望，大爱",
+            "author": " 来自于 1471474629 的评价 ",
+            "isReview": true
+          },
+          {
+            "src": "http://localhost:3000/json/hejin/Homeelec/ele3.png",
+            "title": "15.6''笔记本 i5 4G MX110",
+            "desc": "全高清屏 / 人工智能语音",
+            "price": 4199,
+            "del": "",
+            "rank": "",
+            "flag": "新品",
+            "review": "拿包裹的心是迫切的   用的都是小米的   自己送给...",
+            "author": "  来自于 大婷宝 的评价  ",
+            "isReview": true
+          },
+          {
+            "src": "http://localhost:3000/json/hejin/Homeelec/ele5.png",
+            "title": "米家空气净化器Pro",
+            "desc": "OLED 显示屏幕 / 激光颗粒物传感器",
+            "price": 1499,
+            "del": "",
+            "rank": "",
+            "flag": "",
+            "review": "卧室里的净化器小，这次买个大的放到客厅里，我米加油＾...",
+            "author": "    来自于 孔繁义 的评价   ",
+            "isReview": true
+          },
+          {
+            "src": "http://localhost:3000/json/hejin/Homeelec/ele6.jpg",
+            "title": "米家电水壶",
+            "desc": "一杯水，是一家人的安心",
+            "price": 99,
+            "del": "",
+            "rank": "",
+            "flag": "",
+            "review": "外形时尚，容量大，好打理，再也不用担心清理问题了，这...",
+            "author": "     来自于 精益眼镜 的评价    ",
+            "isReview": true
+          },
+          {
+            "src": "http://localhost:3000/json/hejin/Homeelec/ele7.png",
+            "title": "米家LED吸顶灯",
+            "desc": "用光线，还原理想生活",
+            "price": 399,
+            "del": "",
+            "rank": "",
+            "flag": "",
+            "review": "不错  方便好用   调光温馨     有调光锁定功...",
+            "author": "      来自于 千龙 的评价     ",
+            "isReview": true
+          },
+          {
+            "src": "http://localhost:3000/json/hejin/Homeelec/ele7.png",
+            "title": "米家LED吸顶灯",
+            "desc": "用光线，还原理想生活",
+            "price": 399,
+            "del": "",
+            "rank": "",
+            "flag": "",
+            "review": "不错  方便好用   调光温馨     有调光锁定功...",
+            "author": "      来自于 千龙 的评价     ",
+            "isReview": true
+          }
+
+        ],
+        "smallItem": [
+          {
+            "title": "小米净水器（厨下式）",
+            "src": "http://localhost:3000/json/hejin/Homeelec/ele8.jpg",
+            "price": 1899
+          }
+        ]
+      }
+    ]
+  }
+]

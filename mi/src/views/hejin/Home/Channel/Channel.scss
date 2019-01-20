@@ -1,0 +1,49 @@
+.home-channel-list {
+  margin: 0;
+  padding: 3px;
+  list-style-type: none;
+  font-size: 12px;
+  text-align: center;
+  background: #5f5750;
+  overflow: hidden;
+  .exposure {
+    position: relative;
+    float: left;
+    width: 67px;
+    height: 85px;
+    margin: 0 4px;
+    border-bottom: 1px solid #746e6e;
+    a {
+      display: block;
+      padding-top: 18px;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      overflow: hidden;
+      color: rgba(255,255,255,0.7);
+      *color: #fff;
+      transition: color .2s;
+      i {
+        display: block;
+        height: 24px;
+        margin-bottom: 4px;
+        font-size: 24px;
+        line-height: 24px;
+      }
+    }
+  }
+  .noBottom {
+    border-bottom: none;
+  }
+  .shu {
+    width: 1px;
+    height: 69px;
+    background: #746e6e;
+    float: left;
+    margin-top: 7px;
+  }
+  .exposure:hover {
+    a {
+      color: #fff;
+    }
+  }
+}

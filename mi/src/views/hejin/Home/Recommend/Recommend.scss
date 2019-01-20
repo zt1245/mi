@@ -1,0 +1,112 @@
+.hj-recommend {
+  margin-bottom: 22px;
+  height: 358px;
+  .box-hd {
+    height: 58px;
+    position: relative;
+    .title {
+      margin: 0;
+      font-size: 22px;
+      font-weight: 200;
+      line-height: 58px;
+      color: #333;
+    }
+    .more {
+      position: absolute;
+      top: 15px;
+      right: 0;
+      div {
+        .control {
+          // width: 24px;
+          // height: 16px;
+          padding: 3px 5px;
+          border: 1px solid #e0e0e0;
+          font-size: 16px;
+          line-height: 16px;
+          display: inline-block;
+          text-align: center;
+          transition: color .5s;
+          color: #b0b0b0;
+          cursor: default;
+          margin-left: -1px;
+          &:hover {
+            color: #ff6700;
+          }
+        }
+      }
+    }
+  }
+  .box-bd {
+    .xm-carousel-wrapper {
+      height: 320px;
+      overflow: hidden;
+      position: relative;
+      width: 1226px;
+      ul {
+        width: 4960px;
+        margin-left: 0px;
+        transition: margin-left 0.5s ease 0s;
+        .list {
+          transition: all 0.2s linear;
+          margin-right: 14px;
+          float: left;
+          width: 234px;
+          margin-bottom: 14px;
+          height: 300px;
+          background-color: #fff;
+          text-align: center;
+          position: relative;
+          dl {
+            padding: 0 20px;
+            dt {
+              padding: 40px 0 15px;
+              // height: 145px;
+              a {
+                display: block;
+                cursor: pointer;
+                img {
+                  width: 140px;
+                  height: 140px;
+                }
+              }
+            }
+            .xm-recommend-name {
+              margin-bottom: 10px;
+              height: 18px;
+              text-overflow: ellipsis;
+              white-space: nowrap;
+              overflow: hidden;
+              a {
+                color: #333;
+              }
+            }
+            .xm-recommend-price {
+              margin-bottom: 10px;
+              color: #ff6700;
+            }
+            .xm-recommend-tips {
+              position: relative;
+              color: #757575;
+            }
+            .xm-recommend-notice {
+              position: absolute;
+              top: 0;
+              left: 0;
+              z-index: 5;
+              width: 100%;
+              opacity: 0;
+              transform: translate3d(0, -10px, 0);
+              transition: all .2s linear;
+            }
+          }
+        }
+        .list:nth-of-type(5n) {
+          margin-right: 0;
+        }
+        .list:hover {
+          box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+        }
+      }
+    }
+  }
+}

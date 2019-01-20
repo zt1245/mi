@@ -1,0 +1,114 @@
+[
+  {
+    "ShowImg": "http://localhost:3000/json/liqin/star/mi8.jpg",
+    "name": "小米8",
+    "price": "全球首款双频GPS，骁龙845",
+    "money": "2499",
+    "del": "2699元"
+  },
+  {
+    "ShowImg": "http://localhost:3000/json/liqin/star/SE.jpg",
+    "name": "小米8 SE",
+    "price": "三星AMOLED全面屏",
+    "money": "1699",
+    "del": "1999元"
+  },
+  {
+    "ShowImg": "http://localhost:3000/json/liqin/star/6m.jpg",
+    "name": "红米6",
+    "price": "小屏高性能的双摄手机",
+    "money": "699",
+    "del": "799元"
+  },
+  {
+    "ShowImg": "http://localhost:3000/json/liqin/star/h6.jpg",
+    "name": "红米6A",
+    "price": "好用好看不贵",
+    "money": "569",
+    "del": "599元"
+  },
+  {
+    "ShowImg": "http://localhost:3000/json/liqin/star/heisha.jpg",
+    "name": "黑鲨🐟游戏手机Helo",
+    "price": "双液冷, 更能打",
+    "money": "399",
+    "del": ""
+  },
+  {
+    "ShowImg": "http://localhost:3000/json/liqin/star/MIX2S.jpg",
+    "name": "小米MIX 2S",
+    "price": "陶瓷机身 手机中的艺术品",
+    "money": "2699",
+    "del": "3299元"
+  },
+    {
+      "ShowImg": "http://localhost:3000/json/liqin/star/star.jpg",
+      "name": "小米8 青春版",
+      "price": "潮流镜面渐变， 自怕旗舰",
+      "money": "1399",
+      "del": ""
+    },
+    {
+      "ShowImg": "http://localhost:3000/json/liqin/star/MIX3.jpg",
+      "name": "小米MIX 3",
+      "price": "磁动力滑盖全面屏",
+      "money": "3299元",
+      "del": ""
+    },
+    {
+      "ShowImg": "http://localhost:3000/json/liqin/star/star1.jpg",
+      "name": "小米8",
+      "price": "全球首款双频GPS，骁龙845",
+      "money": "2499",
+      "del": "2699元"
+    },
+    {
+      "ShowImg": "http://localhost:3000/json/liqin/star/star2.jpg",
+      "name": "小米8 SE",
+      "price": "三星 AMOLED 全面屏",
+      "money": "1699",
+      "del": "1999元"
+    },
+    {
+      "ShowImg": "http://localhost:3000/json/liqin/star/m6x.jpg",
+      "name": "小米6X",
+      "price": "轻薄美观的拍照手机",
+      "money": "1299",
+      "del": "1599元"
+    },
+    {
+      "ShowImg": "http://localhost:3000/json/liqin/star/x2s.jpg",
+      "name": "小米MIX 2S",
+      "price": "陶瓷机身 手机中的艺术品",
+      "money": "2699",
+      "del": "3299元"
+    },
+    {
+      "ShowImg": "http://localhost:3000/json/liqin/star/hongmi6.jpg",
+      "name": "红米6",
+      "price": "小屏性能的双摄手机",
+      "money": "699",
+      "del": "799元"
+    },
+    {
+      "ShowImg": "http://localhost:3000/json/liqin/star/hongmi6A.jpg",
+      "name": "红米6A",
+      "price": "好用好看不贵",
+      "money": "569",
+      "del": "599元"
+    },
+    {
+      "ShowImg": "http://localhost:3000/json/liqin/star/Note5.jpg",
+      "name": "红米Note 5",
+      "price": "红米国民品质， 拍照专家",
+      "money": "899",
+      "del": "1099元"
+    },
+    {
+      "ShowImg": "http://localhost:3000/json/liqin/star/por6.jpg",
+      "name": "红米6 Pro",
+      "price": "高颜值大电量 红米旗舰",
+      "money": "869",
+      "del": "999元"
+    }
+]

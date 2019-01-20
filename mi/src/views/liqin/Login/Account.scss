@@ -1,0 +1,99 @@
+.login_main{
+    width: 348px;
+    padding-bottom: 20px;
+    margin: 27px auto 14px;
+     .login_labelbox{
+               display: block;
+            margin-bottom: 14px;
+            border: 1px solid #e0e0e0;
+            .login_int{
+                outline: none;
+                border: 0;
+                height: 22px;
+                line-height: 22px;
+                padding: 13px 16px 13px 14px;
+                display: block;
+                margin: 11px 0;
+                color: #333;
+                font-size: 16px;
+            }
+            .login_int::-webkit-input-placeholder{
+                color: #b5b5b5;
+                font-size:14px;
+            }
+
+        }
+        .set_pwd{
+             outline: none;
+            border: 0;
+            background-color: #ef5b00;
+            width: 100%;
+            height: 50px;
+            line-height: 50px;
+            display: block;
+            margin-bottom: 14px;
+            text-align: center;
+            font-size: 14px;
+            color: #fff;
+            cursor: pointer;
+        }
+        .sms_link{
+                font-size: 14px;
+            overflow: hidden;
+            .set_panel_login{
+                    float: left;
+                    color: #ef5b00;
+                    border: 0 none;
+                    height: auto;
+                    line-height: normal;
+                    margin: 0;
+            }
+            .outer_link{
+                float: right;
+                    color: #999;
+                em{
+                    padding: 0 5px;
+                }
+                .n_links_area:hover,.reverse:hover{
+                    color: #f56600;
+                }
+            }
+        }
+        .login_container{
+                // margin-top: 120px 0 10px !important;
+            .login_qita{
+                border-top: 1px solid #e0e0e0;
+                    margin-top: 90px;
+                padding-top: 10px;
+                    .btn_weibo{
+                        font-size: 14px;
+                        color: #b0b0b0;
+                        margin: 0 auto;
+                        text-align: center;
+                    }
+                }
+                .other-login{
+                        text-align: center;
+                    .iconfont{
+                        font-size: 34px;
+                        margin: 0 17px;
+                    }
+                    .icon-qq{
+                        color: #0288d1;
+                        font-size: 38px;
+                    }
+                    .icon-weibo{
+                        color: #D32F2F;
+                    }
+                    .icon-zhifubao{
+                        color: #00AAEE;
+                    }
+                    .icon-weixindenglu{
+                        color: #00D20D;
+                    }
+                }
+        }
+
+
+
+    }

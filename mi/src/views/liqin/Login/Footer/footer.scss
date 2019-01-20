@@ -1,0 +1,28 @@
+// login 页面的样式 footer
+
+.custom-footer{
+    margin-top: 100px;
+    .lang-select-list{
+        text-align: center;
+         .lang-select-li{
+                display: inline-block !important;
+              a,i{
+                 display: inline-block !important;
+                 padding: 0 10px;
+                 color: #757575;
+             }
+             a:hover,i:hover{
+                     color: #333;
+             }
+        }
+    }
+    .nf-intro{
+        padding: 10px;
+        text-align: center;
+        margin-bottom: 17px;
+        color: #757575;
+        a {
+            color: #757575;
+        }
+    }
+}

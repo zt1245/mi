@@ -1,0 +1,61 @@
+// login 页面的样式
+body,html{
+    background: #fff;
+}
+.lq-login{
+    width: 1130px;
+    margin: 0 auto;
+    .login-con{
+        width: 200px;
+        height: 98px;
+        cursor: pointer;
+        .login-con img{
+            height: 100%;
+        }
+    }
+}
+.login-banner{
+    position: relative;
+    background: url(../images/index_header_1.gif) no-repeat;
+    box-sizing: border-box;
+     background-size: 100%;
+    .login-main{
+        height: 588px;
+        background: url(../images/index_header_1.jpg) no-repeat;
+        background-size: 100%;
+        background-position: -280px 0;
+    }
+    .layout_panel {
+        padding-top: 130px;
+    }
+    .layout{
+        position: absolute;
+        top: 40px;
+        right: 80px;
+        width: 410px;
+        min-height: 524px;
+        margin-bottom: 0;
+        margin-right: 0;
+        font-size: 14px;
+        z-index: 4;
+        background: #fff;
+        .login-dl{
+            padding: 27px 0 24px;
+            text-align: center;
+            color: #e0e0e0;
+            .navtab-link{
+                font-size: 24px;
+                color: #666;
+            }
+            .navtab-link:hover{
+                color: #f56600;
+            }
+            .link{
+                width: 1px;
+                height: 24px;
+                margin: 0 35px 0 42px;
+                border: 1px solid #e0e0e0;;
+            }
+        }
+    }
+}

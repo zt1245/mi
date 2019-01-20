@@ -1,0 +1,126 @@
+#site-topbar{
+    background: #f5f5f5;
+    width: 100%;
+    .swiper-container{
+        height: 620px;
+        max-width: 100%;
+        overflow-x: hidden;
+        .swiper-slide{
+            .slideimg{
+                position: absolute;
+                top: 0;
+                right: -50%;
+                width: 2560px;
+                height: 100%;
+                text-align: center;
+            }
+        }
+
+    }
+    .swiper-pagination{
+            right: 50%;
+            .swiper-pagination-bullet-active{
+                    background: rgba(255,255,255,0.4);
+                        border-color: rgba(255,255,255,0.3);
+            }
+            .swiper-pagination-bullet {
+                    background: rgba(0,0,0,0.4);
+                    border-color: rgba(255,255,255,0.3);
+            }
+    }
+    .swiper-container{
+        .swiper-button-prev{
+                left: 6%;
+        }
+        .swiper-button-next{
+            margin-right: 6%;
+        }
+    }
+    // 明星产品
+    .conntainer{
+        width: 1226px;
+        transition: all .2s linear;
+        .centers{
+            width: 1226px;
+        }
+        margin: auto;
+        .star{
+            line-height: 64px;
+            margin: 0;
+            padding-top: 4px;
+            color: #333;
+            font-size: 24px;
+            font-weight: normal;
+        }
+        &:hover{
+               .figure{
+                   -webkit-transition: all .2s linear;
+                   box-shadow: 2px 15px 30px rgba(0,0,0,0.1);
+                   transition: all .2s linear;
+                   -webkit-transform: translate3d(0, -5px, 0);
+                   transform: translate3d(0, -5px, 0);
+                   top: -5px;
+               }
+           }
+        .figure{
+            height: 434px;
+            background: #fff;
+            position: relative;
+             transition: all .2s linear;
+            .product_cell{
+                width: 854px;
+                height: 100%;
+                img{
+                    width: 100%;
+                    height: 100%;
+                }
+            }
+            .content{
+                position: absolute;
+                left: 916px;
+                top: 0;
+                bottom: 0;
+                width: 270px;
+                height: 100%;
+                // background: pink;
+                .tetile{
+                    line-height: 32px;
+                    padding-top: 90px;
+                    margin: 0;
+                    font-weight: normal;
+                    color: #333333;
+                    color: rgba(51,51,51,0.9);
+                    font-size: 32px;
+                }
+                .desc{
+                    width: 270px;
+                    line-height: 22px;
+                    min-height: 44px;
+                    margin: 4px 0 0;
+                    color: #333333;
+                    color: rgba(51,51,51,0.7);
+                    font-size: 14px;
+                }
+                .prce{
+                    line-height: 45px;
+                    margin: 17px 0 0;
+                    color: #ff6700;
+                    font-size: 12px;
+                    font-weight: bold;
+                    strong{
+                        font-weight: normal;
+                        font-size: 32px;
+                        letter-spacing: -2px;
+                    }
+                }
+                .link{
+                    position: absolute;
+                    left: 0;
+                    bottom: 62px;
+                    margin: 0;
+                }
+            }
+        }
+
+    }
+}

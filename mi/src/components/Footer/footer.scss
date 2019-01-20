@@ -1,0 +1,185 @@
+.zy-footer {
+  background:#fff;
+  height: 100px;
+  .zy-site{
+
+    .zy-siteTop{
+
+      .zy-service{
+        padding:27px 0;
+        border-bottom: 1px solid #e0e0e0;
+        overflow:hidden;
+        .zy-serviceLi{
+          float: left;
+          width: 19.8%;
+          height: 25px;
+          border-left: 1px solid #e0e0e0;
+          font-size: 16px;
+          line-height: 25px;
+          text-align: center;
+
+          .zy-a{
+            color: #333;
+            &:hover{
+              color:#ff6700;
+            }
+            .zy-icon{
+              margin-right: 6px;
+              font-size: 24px;
+              line-height: 24px;
+              vertical-align: -4px;
+            }
+          }
+        }
+        :first-child{
+          border:0;
+        }
+      }
+    }
+    .zy-siteBottom{
+      background:#fff;
+      overflow:hidden;
+      .zy-container{
+        width:1226px;
+        margin:0 auto;
+        .zy-left{
+          padding: 40px 0;
+          overflow:hidden;
+          .zy-dl{
+            float: left;
+            width: 160px;
+            height: 112px;
+            margin: 0;
+
+            .zy-dt{
+              margin: -1px 0 26px;
+              font-size: 14px;
+              line-height: 1.25;
+              color: #424242;
+
+            }
+            .zy-dd{
+              margin: 10px 0 0;
+              font-size: 12px;
+              .zy-defale{
+                color: #757575;
+                &:hover{
+                  color:#ff6700;
+                }
+              }
+            }
+          }
+          .zy-content{
+            float: right;
+            width: 254px;
+            height: 112px;
+            border-left: 1px solid #e0e0e0;
+            text-align: center;
+            color: #616161;
+            .zy-phone{
+              margin: 0 0 5px;
+              font-size: 22px;
+              line-height: 1;
+              color: #ff6700;
+            }
+            .zy-data{
+              margin: 0 0 16px;
+              font-size: 12px;
+            }
+            .zy-follow{
+              display:inline-block;
+              width: 118px;
+              height: 28px;
+              font-size: 12px;
+              line-height: 28px;
+              border:1px solid #ff6700;
+              background: #fff;
+              color: #ff6700;
+              &:hover{
+                color: #fff;
+                background: #ff6700;
+              }
+              .zy-tell{
+                font-size:12px;
+                margin-right:2px;
+
+              }
+            }
+          }
+        }
+      }
+    }
+    // 底部第二部分
+    .zy-siteInfo{
+      // height:66px;
+      padding: 30px 0;
+      font-size: 12px;
+      overflow:hidden;
+      background: #fafafa;
+      .container{
+        overflow:hidden;
+        .zy-logoIr{
+          float: left;
+          width: 57px;
+          height: 57px;
+          margin-right: 10px;
+        }
+        .zy-InfoText{
+          float: left;
+          width:688px;
+          color: #b0b0b0;
+          .zy-sites{
+            line-height:18px;
+            .zy-sea{
+              color: #757575;
+              &:hover{
+                color:#ff6700;
+              }
+            }
+            .zy-sep{
+              margin: 0 3px;
+              color: #b0b0b0;
+            }
+            :last-child{
+              display:none;
+            }
+          }
+          .zy-jing{
+
+            .zy-tar{
+              color: #b0b0b0;
+              &:hover{
+                color:#ff6700;
+              }
+            }
+            .zy-targe{
+              color: #b0b0b0;
+            }
+            .zy-kk{
+              color: #b0b0b0;
+            }
+          }
+        }
+        .zy-InfoLinks{
+          float: right;
+          height: 28px;
+          margin: 4px 0 0;
+          .zy-footerImg{
+
+            img{
+              height: 28px;
+              margin-left: 0px;
+            }
+          }
+        }
+      }
+      .zy-ir{
+        margin: 30px auto 0;
+        width: 267px;
+
+        font-size:16px;
+        color:#BABABA;
+      }
+    }
+  }
+}

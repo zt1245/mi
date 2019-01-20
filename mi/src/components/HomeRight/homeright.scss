@@ -1,0 +1,274 @@
+.home_right_bar{
+    position: fixed;
+    right: 50%;
+    bottom: 120px;
+    background: #fff;
+    z-index: 200;
+    margin-right: -650px;
+    .bar-top{
+        margin-bottom: 30px;
+        .bar-sortJI{
+            position: relative;
+            color: #b5b5b5;
+            width: 30px;
+            height: 38px;
+            border: 1px solid #F5F5F5;
+            border-bottom: none;
+            &:hover{
+                .bar_dingw{
+                    display: block;
+                }
+            }
+            .original{
+                .iconfont{
+                    font-size: 30px;
+                    color: #b5b5b5;
+                    z-index: 10;
+                }
+                .icon-shouji1:hover{
+                    color: #ff6700;
+                }
+            }
+            .bar_dingw{
+                 position: absolute;
+                 right:36px;
+                 top: 0;
+                 height: 187px;
+                background: #fff;
+                border: 1px solid #f5f5f5;
+                display: none;
+                .bar_img{
+                   width: 100px;
+                   height: 100px;
+                   margin: 20px 14px;
+                   background: #fff;
+                   border: 0;
+                }
+                .ewm{
+                    width: 83px;
+                    margin: -10px auto 0;
+                    line-height: 21px;
+                    border: none;
+                    color: #757575;
+                    font-size: 14px;
+                    text-align: center;
+                }
+                .arrow{
+                    position: relative;
+                    top: -163px;;
+                    right: -128px;
+                    z-index: 2;
+                    width: 11px;
+                    height: 27px;
+                    background: url(../images/arrow.png) no-repeat;
+                }
+             }
+        }
+        .bar-sort{
+            position: relative;
+            color: #b5b5b5;
+            width: 30px;
+            height: 38px;
+            border: 1px solid #F5F5F5;
+            border-bottom: none;
+            &:hover{
+                .bar_pop{
+                    display: block;
+                }
+            }
+            .original{
+                  .iconfont{
+                        font-size: 30px;
+                        color: #b5b5b5;
+                        z-index: 10;
+                    }
+                    .ic{
+                        text-align: center;
+                        line-height: 38px;
+                    }
+                    .ic:hover{
+                            color: #ff6700;
+                    }
+                    .icon-cart--copy{
+                        border-bottom: 1px solid #F5F5F5;
+                    }
+             }
+
+             .bar_pop{
+                position: absolute;
+                top: 6px;
+                right: 28px;
+                width: 98px;
+                height: 27px;
+                line-height: 28px;
+                color: #757575;
+                display: none;
+                 .br{
+                    padding: 0 8px;
+                    padding-top: 0;
+                    height: 27px;
+                    width: 89px;
+                    line-height: 26px;
+                    background: #fff;
+                    border: 1px solid #f5f5f5;
+                }
+                .bar_arrows{
+                    padding: 0 8px;
+                    padding-top: 0;
+                     width:90px;
+                    height: 27px;
+                    line-height: 27px;
+                    background: #fff;
+                    border: 1px solid #f5f5f5;
+                }
+                .arrows{
+                    position: relative;
+                    top: -34px;
+                    right: -88px;
+                    z-index: 2;
+                    width: 11px;
+                    height: 27px;
+                    background: url(../images/arrow.png) no-repeat;
+                }
+             }
+        }
+    }
+    .bar-sortGou{
+         position: relative;
+            color: #b5b5b5;
+            width: 30px;
+            height: 38px;
+            border: 1px solid #F5F5F5;
+            border-bottom: none;
+            &:hover{
+                .bar_pop{
+                    display: block;
+                }
+            }
+            .original{
+                  .iconfont{
+                        font-size: 30px;
+                        color: #b5b5b5;
+                        z-index: 10;
+                    }
+                    .ic{
+                        text-align: center;
+                        line-height: 38px;
+                    }
+                    .ic:hover{
+                            color: #ff6700;
+                    }
+                    .icon-cart--copy{
+                        border-bottom: 1px solid #F5F5F5;
+                    }
+             }
+
+             .bar_pop{
+                position: absolute;
+                top: 6px;
+                right: 28px;
+                width: 98px;
+                height: 27px;
+                line-height: 28px;
+                color: #757575;
+                display: none;
+                 .br{
+                    padding: 0 8px;
+                    padding-top: 0;
+                    height: 27px;
+                    width: 89px;
+                    line-height: 26px;
+                    background: #fff;
+                    border: 1px solid #f5f5f5;
+                }
+                .bar_arrows{
+                    padding: 0 8px;
+                    padding-top: 0;
+                     width:90px;
+                    height: 27px;
+                    line-height: 27px;
+                    background: #fff;
+                    border: 1px solid #f5f5f5;
+                }
+                .arrows{
+                    position: relative;
+                    top: -34px;
+                    right: -88px;
+                    z-index: 2;
+                    width: 11px;
+                    height: 27px;
+                    background: url(../images/arrow.png) no-repeat;
+                }
+             }
+    }
+    // 回顶部
+    .shows{
+        .huidingbu{
+                position: relative;
+                right: 70px;
+                top: 32px;
+                padding-left: 5px;
+                border: 1px solid #F5F5F5;
+                background: #fff;
+        }
+        .arrows{
+                position: absolute;
+                top: 38px;
+                right: 60px;
+                z-index: 2;
+                width: 11px;
+                height: 27px;
+                background: url(../images/arrow.png) no-repeat;
+        }
+    }
+    .ant-back-top{
+            line-height: 1.5;
+            color: rgba(0, 0, 0, 0.65);
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            list-style: none;
+            z-index: 10;
+            position: fixed;
+            right: 50%;
+            bottom: 84px;
+            height: 60px;
+            width: 60px;
+            cursor: pointer;
+            margin-right: -750px;
+    }
+    .bar_totop{
+        .home_bar_img{
+            .topHind,.topShow{
+                background: #fff;
+                width: 20px;
+                height: 20px;
+                }
+            .topShow{
+                display: block;
+            }
+            padding-top: 10px;
+            .topHind{
+                display: none;
+            }
+            &:hover{
+                .topHind{
+                    display: block;
+                }
+                .topShow{
+                    display: none;
+                }
+            }
+        }
+    }
+}
+
+
+
+
+
+// 测试吸顶
+// .height{
+//     width: 100px;
+//     height:3000px;
+// }

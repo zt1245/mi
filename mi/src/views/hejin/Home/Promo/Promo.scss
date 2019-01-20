@@ -1,0 +1,22 @@
+.home-promo-list {
+  overflow: hidden;
+  li {
+    float: left;
+    width: 316px;
+    height: 170px;
+    margin-left: 15px;
+    -webkit-transition: -webkit-box-shadow .2s linear;
+    transition: box-shadow .2s linear;
+    a {
+      display: block;
+      height: 170px;
+      img {
+        width: 316px;
+        height: 170px;
+      }
+    }
+  }
+  li:first-of-type{
+    margin-left: 0;
+  }
+}

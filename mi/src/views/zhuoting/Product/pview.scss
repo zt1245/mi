@@ -1,0 +1,64 @@
+.pro-view {
+  height: 600px;
+  width: 100%;
+  .view-warpper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+    .smallPic {
+      width: 460px;
+      height: 460px;
+      border: 1px solid #e0e0e0;
+      margin: 5px auto 0;
+      position: relative;
+      img {
+        width: 100%;
+      }
+      .mask {
+        width: 230px;
+        height: 230px;
+        position: absolute;
+        top: 0;
+        left: 0;
+        background: url("http://localhost:3000/json/zhuoting/images/mask.png");
+        display: none;
+      }
+      .isshow {
+        display: block;
+      }
+    }
+    .bigPic {
+      width: 460px;
+      height: 460px;
+      overflow: hidden;
+      position: absolute;
+      border: 1px solid #e0e0e0;
+      top: 4px;
+      left: 538px;
+      display: none;
+      z-index: 3;
+      img {
+        width: 920px;
+        position: absolute;
+      }
+    }
+    .bShow {
+      display: block;
+    }
+    ul {
+      display: flex;
+      justify-content: center;
+      margin-top: 10px;
+      li {
+        height: 115px;
+        width: 115px;
+        margin: 5px;
+        border: 1px solid #e0e0e0;
+        img {
+          width: 100%;
+        }
+      }
+    }
+  }
+}
